@@ -1,10 +1,10 @@
 """
 Utilitaires pour la gestion des données candidats.
 
-- Parcours des fichiers bruts dans DATA/Raw
+- Parcours des fichiers bruts dans DATA/raw
 - Extraction de texte (.txt et .pdf)
 - Nettoyage du texte
-- Sauvegarde en JSON dans DATA/Processed/parsed
+- Sauvegarde en JSON dans DATA/processed/parsed
 - Construction d'un CSV simple (candidates.csv)
 """
 
@@ -15,24 +15,32 @@ import re
 import csv
 
 # Localisation du dossier DATA à partir du repo
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[2]  # .../MULTI-AGENT-CANDIDATE-SELECTION
 DATA_DIR = REPO_ROOT / "DATA"
 
-RAW_DIR = DATA_DIR / "Raw"
-PROCESSED_DIR = DATA_DIR / "Processed"
+# ⚠️ attention : dossiers en minuscules, comme dans ta capture VS Code
+RAW_DIR = DATA_DIR / "raw"
+PROCESSED_DIR = DATA_DIR / "processed"
 PARSED_DIR = PROCESSED_DIR / "parsed"
 
 # On crée les dossiers si besoin
+RAW_DIR.mkdir(parents=True, exist_ok=True)
+PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 PARSED_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def list_raw_files(extensions: tuple = (".txt", ".pdf")) -> List[Path]:
     """
-    Liste tous les fichiers bruts dans DATA/Raw avec les extensions données.
+    Liste tous les fichiers bruts dans DATA/raw avec les extensions données.
     """
     files: List[Path] = []
+
     if not RAW_DIR.exists():
-        raise FileNotFoundError(f"Le dossier RAW n'existe pas : {RAW_DIR}")
+        # Normalement on ne passe plus ici car on le crée plus haut,
+        # mais on garde un message clair au cas où.
+        print(f"Le dossier RAW n'existe pas, il a été créé : {RAW_DIR}")
+        RAW_DIR.mkdir(parents=True, exist_ok=True)
+        return []
 
     for path in RAW_DIR.rglob("*"):
         if path.is_file() and path.suffix.lower() in extensions:
@@ -117,7 +125,7 @@ def parse_raw_file(path: Path) -> Dict:
 
 def save_candidate_json(candidate: Dict) -> Path:
     """
-    Sauvegarde un candidat au format JSON dans DATA/Processed/parsed.
+    Sauvegarde un candidat au format JSON dans DATA/processed/parsed.
     """
     out_path = PARSED_DIR / f"{candidate['id']}.json"
     out_path.write_text(

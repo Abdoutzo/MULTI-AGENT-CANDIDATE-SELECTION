@@ -1,0 +1,18 @@
+{
+  "id": "cv_test",
+  "source_file": "DATA\\raw\\cv_test.txt",
+  "raw_text": "Je suis un candidat de test. Compétences : Python, SQL, Excel. Expérience : 3 ans en data.",
+  "n_chars": 90,
+  "n_words": 17,
+  "email": "",
+  "phone": "",
+  "skills_text": ": Python, SQL, Excel. Expérience : 3 ans en data.",
+  "skills_list": [
+    ": Python",
+    "SQL",
+    "Excel. Expérience : 3 ans en data."
+  ],
+  "experience_text": "",
+  "education_text": "",
+  "languages_text": ""
+}

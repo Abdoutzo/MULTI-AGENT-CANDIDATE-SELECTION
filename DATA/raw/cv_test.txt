@@ -1,0 +1,3 @@
+Je suis un candidat de test.
+Compétences : Python, SQL, Excel.
+Expérience : 3 ans en data.
