@@ -54,11 +54,6 @@ def build_candidate_id(path: Path) -> str:
 
 
 def parse_raw_file(path: Path) -> Dict:
-    text = extract_text(path)
-    cleaned = clean_text(text)
-    cid = build_candidate_id(path)
-
-def parse_raw_file(path: Path) -> Dict:
     """
     Lit un fichier brut, extrait et nettoie le texte,
     renvoie un dict représentant un candidat enrichi.
