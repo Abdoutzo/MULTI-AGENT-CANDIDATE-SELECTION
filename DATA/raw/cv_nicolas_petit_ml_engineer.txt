@@ -1,0 +1,65 @@
+NICOLAS PETIT
+Machine Learning Engineer
+
+Email: nicolas.petit@email.com
+Téléphone: +33 6 89 01 23 45
+GitHub: github.com/nicolaspetit
+Localisation: Paris, France
+
+PROFIL
+Machine Learning Engineer avec 4 ans d'expérience en développement de modèles ML, 
+MLOps et déploiement de solutions d'IA en production. Expertise en Python, TensorFlow et cloud.
+
+EXPÉRIENCE
+
+ML Engineer | AIStartup | 2020 - Présent
+- Développement et déploiement de modèles ML en production
+- Mise en place de pipelines MLOps avec MLflow et Kubeflow
+- Optimisation de modèles pour la production (réduction latence de 60%)
+- Collaboration avec les data scientists pour industrialiser les modèles
+- Technologies: Python, TensorFlow, PyTorch, MLflow, Kubernetes, AWS
+
+Data Scientist / ML Engineer | DataLab | 2019 - 2020
+- Développement de modèles de prédiction (NLP, Computer Vision)
+- Feature engineering et preprocessing de données
+- Technologies: Python, Scikit-learn, TensorFlow, Spark
+
+Stagiaire ML | ResearchLab | 2018 - 2019
+- Recherche sur les réseaux de neurones
+- Implémentation d'algorithmes ML
+
+COMPÉTENCES
+- ML/DL: TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
+- Langages: Python (avancé), SQL, Scala
+- MLOps: MLflow, Kubeflow, Airflow, Docker, Kubernetes
+- Cloud: AWS (SageMaker, EC2, S3), GCP (Vertex AI)
+- Big Data: Spark, Hadoop
+- Outils: Git, Jupyter, VS Code, DVC
+
+FORMATION
+Master en Intelligence Artificielle | École Polytechnique | 2019
+- Spécialisation: Machine Learning et Deep Learning
+- Mémoire: "Optimisation de modèles de deep learning pour la production"
+
+Ingénieur en Informatique | École Centrale Paris | 2017
+
+PUBLICATIONS
+- 2 publications dans des conférences ML
+- Contribution open-source à TensorFlow
+
+PROJETS
+- Système de recommandation en temps réel (1M+ requêtes/jour)
+- Modèle de détection de fraude (précision 95%)
+- Pipeline MLOps automatisé (déploiement en 1 clic)
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Chinois: Notions
+
+SOFT SKILLS
+- Résolution de problèmes complexes
+- Veille technologique
+- Collaboration interdisciplinaire
+- Pragmatisme et orientation résultats
+

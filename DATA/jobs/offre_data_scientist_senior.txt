@@ -1,0 +1,73 @@
+OFFRE D'EMPLOI
+Data Scientist Senior
+
+Entreprise: TechData Solutions
+Type de contrat: CDI
+Localisation: Paris, France (télétravail partiel possible)
+Salaire: 55K€ - 70K€ selon expérience
+
+À PROPOS DE NOUS
+TechData Solutions est une entreprise innovante spécialisée dans l'analyse de données et l'intelligence artificielle. 
+Nous accompagnons nos clients dans leur transformation digitale et leur fournissons des solutions data-driven.
+
+VOTRE MISSION
+En tant que Data Scientist Senior, vous serez responsable de:
+- Développer et déployer des modèles de machine learning en production
+- Analyser de grandes quantités de données pour identifier des insights business
+- Collaborer avec les équipes produit et engineering pour intégrer des solutions ML
+- Mener des projets de recherche et développement en IA
+- Encadrer et former les data scientists juniors
+
+RESPONSABILITÉS
+- Conception et développement de modèles prédictifs (classification, régression, clustering)
+- Feature engineering et preprocessing de données
+- Mise en place de pipelines de données avec Apache Spark
+- Déploiement de modèles en production avec MLOps
+- Création de dashboards et visualisations pour présenter les résultats
+- Documentation technique et présentation aux stakeholders
+
+PROFIL RECHERCHÉ
+
+Compétences Techniques Requises:
+- Master ou équivalent en Data Science, Mathématiques, Informatique ou domaine connexe
+- Minimum 5 ans d'expérience en data science / machine learning
+- Maîtrise de Python (avancé) et SQL
+- Expérience avec les frameworks ML: Scikit-learn, TensorFlow ou PyTorch
+- Connaissance des outils Big Data: Spark, Hadoop
+- Expérience avec les bases de données: PostgreSQL, MongoDB
+- Connaissance de Git et des bonnes pratiques de développement
+
+Compétences Appréciées:
+- Expérience avec le cloud (AWS, Azure, GCP)
+- Connaissance de Kubernetes et Docker
+- Expérience en MLOps (MLflow, Kubeflow)
+- Maîtrise de R
+- Expérience avec Tableau ou Power BI
+
+Soft Skills:
+- Excellente capacité d'analyse et de résolution de problèmes
+- Esprit d'équipe et collaboration
+- Communication claire des résultats techniques
+- Curiosité et veille technologique
+- Autonomie et proactivité
+
+LANGUES
+- Français: Courant (obligatoire)
+- Anglais: Courant (obligatoire)
+
+AVANTAGES
+- Télétravail partiel (2-3 jours/semaine)
+- Tickets restaurant
+- Mutuelle entreprise
+- Formation continue
+- Équipement informatique fourni
+- Environnement de travail stimulant
+
+PROCESSUS DE RECRUTEMENT
+1. Candidature (CV + lettre de motivation)
+2. Entretien téléphonique (30 min)
+3. Entretien technique (1h30)
+4. Entretien final avec le manager (1h)
+
+Pour postuler, envoyez votre CV et lettre de motivation à: recrutement@techdata-solutions.fr
+

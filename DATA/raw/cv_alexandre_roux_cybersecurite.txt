@@ -1,0 +1,65 @@
+ALEXANDRE ROUX
+Expert en Cybersécurité
+
+Email: alexandre.roux@email.com
+Téléphone: +33 6 67 89 01 23
+Localisation: Rennes, France
+
+PROFIL
+Expert en Cybersécurité avec 6 ans d'expérience en sécurité informatique, 
+audit de sécurité et gestion d'incidents. Certifications CISSP et CEH.
+
+EXPÉRIENCE
+
+Consultant Cybersécurité Senior | SecurIT | 2019 - Présent
+- Réalisation d'audits de sécurité pour des entreprises (20+ audits/an)
+- Mise en place de politiques de sécurité et conformité RGPD
+- Gestion d'incidents de sécurité (réponse à 15+ incidents majeurs)
+- Formation des équipes à la sécurité informatique
+- Technologies: SIEM, WAF, IDS/IPS, Firewalls, VPN
+
+Analyste SOC | CyberDefense | 2017 - 2019
+- Surveillance 24/7 des systèmes de sécurité
+- Détection et analyse de menaces
+- Investigation d'incidents de sécurité
+- Technologies: Splunk, QRadar, Wireshark, Metasploit
+
+Stagiaire Sécurité | ITSecurity | 2016 - 2017
+- Support aux audits de sécurité
+- Tests de pénétration basiques
+
+COMPÉTENCES
+- Sécurité: Pentesting, Audit, Forensics, Incident Response
+- Outils: Metasploit, Burp Suite, Wireshark, Nmap, Nessus
+- SIEM: Splunk, QRadar, ArcSight
+- Compliance: RGPD, ISO 27001, PCI-DSS
+- Scripting: Python, Bash, PowerShell
+- Réseaux: TCP/IP, Firewalls, VPN, IDS/IPS
+
+FORMATION
+Master en Cybersécurité | INSA Rennes | 2017
+- Spécialisation: Sécurité des Systèmes et Réseaux
+
+Licence en Informatique | Université de Rennes | 2015
+
+CERTIFICATIONS
+- CISSP (Certified Information Systems Security Professional) (2022)
+- CEH (Certified Ethical Hacker) (2021)
+- CompTIA Security+ (2020)
+
+RÉALISATIONS
+- Mise en place d'un SOC pour une entreprise (0 incidents majeurs depuis)
+- Découverte de 5 vulnérabilités critiques (CVE)
+- Réduction de 40% des incidents de sécurité chez un client
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Allemand: Notions
+
+SOFT SKILLS
+- Vigilance et attention aux détails
+- Gestion du stress en situation d'urgence
+- Communication technique claire
+- Éthique professionnelle
+

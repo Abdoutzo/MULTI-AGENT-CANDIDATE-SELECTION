@@ -1,0 +1,69 @@
+OFFRE D'EMPLOI
+Développeur Full-Stack Senior
+
+Entreprise: WebInnovation
+Type de contrat: CDI
+Localisation: Lyon, France (télétravail possible)
+Salaire: 50K€ - 65K€ selon expérience
+
+À PROPOS DE NOUS
+WebInnovation est une agence digitale spécialisée dans le développement d'applications web et mobiles. 
+Nous travaillons avec des startups et des entreprises pour créer des solutions digitales innovantes.
+
+VOTRE RÔLE
+Nous recherchons un Développeur Full-Stack Senior pour rejoindre notre équipe technique. 
+Vous serez en charge du développement de nouvelles fonctionnalités et de l'amélioration de nos produits existants.
+
+MISSIONS
+- Développement d'applications web full-stack avec React et Node.js
+- Conception et développement d'APIs RESTful
+- Architecture et design de solutions techniques
+- Code review et mentorat des développeurs juniors
+- Participation aux décisions techniques et architecturales
+- Collaboration avec les équipes produit, design et QA
+
+COMPÉTENCES REQUISES
+
+Techniques:
+- Minimum 5 ans d'expérience en développement web
+- Maîtrise de JavaScript/TypeScript (avancé)
+- Expérience solide avec React (hooks, context, Redux)
+- Expérience avec Node.js et Express ou NestJS
+- Connaissance des bases de données: PostgreSQL, MongoDB
+- Expérience avec Git et les workflows collaboratifs
+- Connaissance des architectures RESTful et GraphQL
+
+Technologies Appréciées:
+- Vue.js ou Angular
+- Docker et Kubernetes
+- AWS ou Azure
+- Redis, RabbitMQ
+- Jest, Cypress
+- CI/CD (Jenkins, GitLab CI)
+
+PROFIL
+- Formation supérieure en informatique (Bac+5 ou équivalent)
+- Expérience dans le développement d'applications complexes
+- Bonne connaissance des bonnes pratiques de développement
+- Expérience en agile/Scrum
+- Capacité à travailler en équipe
+- Autonomie et proactivité
+- Veille technologique
+
+LANGUES
+- Français: Courant
+- Anglais: Courant (lu, écrit, parlé)
+
+AVANTAGES
+- Télétravail flexible
+- Horaires flexibles
+- Tickets restaurant
+- Mutuelle et prévoyance
+- Budget formation annuel
+- Équipement MacBook Pro fourni
+- Environnement startup dynamique
+
+POSTULER
+Envoyez votre CV à: jobs@webinnovation.fr
+Référence: DEV-FULLSTACK-2024
+

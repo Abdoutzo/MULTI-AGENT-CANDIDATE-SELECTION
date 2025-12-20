@@ -1,2 +1,5 @@
 job_id,source_file,job_title,exp_min,exp_max,salaire_min,salaire_max,contrat,lieu,langues
+offre_data_scientist_senior,DATA\jobs\offre_data_scientist_senior.txt,Data Scientist Senior,5,,55000,70000,CDI,paris,"['anglais', 'francais']"
+offre_developpeur_fullstack,DATA\jobs\offre_developpeur_fullstack.txt,- Architecture et design de solutions techniques,5,,50000,65000,CDI,lyon,"['anglais', 'francais']"
+offre_product_manager,DATA\jobs\offre_product_manager.txt,Product Manager,4,,60000,75000,CDI,paris,"['anglais', 'francais']"
 stagiaire_logistique_performance_projet_lucas_francois,DATA\jobs\Stagiaire Logistique Performance & Projet - Lucas FRANCOIS.pdf,REJOIGNEZ NOTRE ÉQUIPE SUPPLY CHAIN !,,,,,Stage,levallois-perret,[]

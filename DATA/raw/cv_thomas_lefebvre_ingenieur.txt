@@ -1,0 +1,68 @@
+THOMAS LEFEBVRE
+Ingénieur DevOps / Cloud Architect
+
+Email: thomas.lefebvre@email.com
+Téléphone: +33 6 45 67 89 01
+GitHub: github.com/thomaslefebvre
+Localisation: Toulouse, France
+
+PROFIL
+Ingénieur DevOps avec 8 ans d'expérience en infrastructure cloud, automatisation 
+et CI/CD. Expert en AWS, Kubernetes et infrastructure as code. Passionné par l'automatisation.
+
+EXPÉRIENCE
+
+Ingénieur DevOps Senior | CloudTech | 2020 - Présent
+- Architecture et déploiement d'infrastructures cloud sur AWS
+- Mise en place de pipelines CI/CD avec Jenkins et GitLab CI
+- Gestion de clusters Kubernetes (50+ nodes)
+- Réduction des coûts infrastructure de 30% grâce à l'optimisation
+- Technologies: AWS, Kubernetes, Terraform, Ansible, Jenkins
+
+Ingénieur DevOps | TechStartup | 2018 - 2020
+- Automatisation des déploiements avec Docker et Kubernetes
+- Mise en place de monitoring avec Prometheus et Grafana
+- Gestion de l'infrastructure avec Terraform
+- Technologies: Docker, Kubernetes, Terraform, AWS, GitLab CI
+
+Ingénieur Système | ITCorp | 2016 - 2018
+- Administration de serveurs Linux
+- Gestion de l'infrastructure réseau
+- Support technique niveau 3
+
+COMPÉTENCES
+- Cloud: AWS (EC2, S3, RDS, Lambda, EKS), Azure, GCP
+- Containers: Docker, Kubernetes, Docker Compose
+- IaC: Terraform, CloudFormation, Ansible
+- CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
+- Monitoring: Prometheus, Grafana, ELK Stack, CloudWatch
+- Scripting: Bash, Python, PowerShell
+- OS: Linux (Ubuntu, CentOS, RHEL), Windows Server
+
+FORMATION
+Master en Informatique | INP Toulouse | 2016
+- Spécialisation: Systèmes et Réseaux
+
+DUT Réseaux et Télécommunications | IUT Toulouse | 2014
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional (2023)
+- Certified Kubernetes Administrator (CKA) (2022)
+- HashiCorp Certified: Terraform Associate (2021)
+
+PROJETS
+- Migration complète vers le cloud AWS (0 downtime)
+- Automatisation complète du déploiement (réduction de 80% du temps)
+- Mise en place d'une infrastructure multi-région
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Espagnol: Notions
+
+SOFT SKILLS
+- Résolution de problèmes complexes
+- Autonomie et proactivité
+- Veille technologique constante
+- Esprit d'équipe
+

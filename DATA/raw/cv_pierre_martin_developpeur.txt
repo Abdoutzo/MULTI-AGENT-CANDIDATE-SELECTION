@@ -1,0 +1,64 @@
+PIERRE MARTIN
+Développeur Full-Stack Senior
+
+Email: pierre.martin@email.com
+Téléphone: +33 6 23 45 67 89
+GitHub: github.com/pierremartin
+Localisation: Lyon, France
+
+PROFIL
+Développeur Full-Stack avec 7 ans d'expérience dans le développement d'applications web et mobiles.
+Expert en JavaScript, React, Node.js et architectures cloud. Passionné par les technologies modernes.
+
+EXPÉRIENCE
+
+Développeur Full-Stack Senior | WebAgency | 2020 - Présent
+- Développement d'applications web complexes avec React et Node.js
+- Architecture microservices avec Docker et Kubernetes
+- Lead technique sur plusieurs projets clients majeurs
+- Technologies: React, Node.js, TypeScript, PostgreSQL, MongoDB, AWS
+
+Développeur Full-Stack | StartupTech | 2018 - 2020
+- Développement de plateforme SaaS pour la gestion de projets
+- Intégration d'APIs tierces et développement d'API REST
+- Optimisation des performances (réduction du temps de chargement de 40%)
+- Technologies: Vue.js, Express.js, MySQL, Redis, Docker
+
+Développeur Frontend | DigitalCorp | 2016 - 2018
+- Développement d'interfaces utilisateur responsives
+- Collaboration avec les designers UX/UI
+- Technologies: React, Redux, HTML5, CSS3, Sass
+
+COMPÉTENCES
+- Frontend: React, Vue.js, Angular, TypeScript, HTML5, CSS3, Sass
+- Backend: Node.js, Express, NestJS, Python (Django, Flask)
+- Bases de données: PostgreSQL, MySQL, MongoDB, Redis
+- DevOps: Docker, Kubernetes, CI/CD, AWS, Azure
+- Outils: Git, Webpack, Jest, ESLint, Postman
+
+FORMATION
+Master en Informatique | INSA Lyon | 2016
+- Spécialisation: Génie Logiciel et Systèmes Distribués
+
+DUT Informatique | IUT Lyon 1 | 2014
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2022)
+- Google Cloud Professional Developer (2021)
+
+PROJETS
+- Application e-commerce avec React et Node.js
+- Plateforme de streaming vidéo avec WebRTC
+- Outil de gestion de tâches en temps réel
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Allemand: Notions
+
+SOFT SKILLS
+- Leadership technique
+- Communication efficace
+- Adaptabilité
+- Esprit d'innovation
+

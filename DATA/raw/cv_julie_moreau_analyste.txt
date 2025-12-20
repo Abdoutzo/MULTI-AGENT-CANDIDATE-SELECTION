@@ -1,0 +1,64 @@
+JULIE MOREAU
+Analyste Business Intelligence
+
+Email: julie.moreau@email.com
+Téléphone: +33 6 56 78 90 12
+LinkedIn: linkedin.com/in/julie-moreau-bi
+Localisation: Bordeaux, France
+
+PROFIL
+Analyste Business Intelligence avec 4 ans d'expérience en analyse de données, 
+création de dashboards et reporting stratégique. Expertise en SQL, Power BI et Tableau.
+
+EXPÉRIENCE
+
+Analyste BI | DataInsight | 2020 - Présent
+- Développement de dashboards interactifs avec Power BI et Tableau
+- Analyse de données business pour la direction (reporting mensuel)
+- Modélisation de données avec SQL et création de data warehouses
+- Support aux équipes commerciales avec des analyses ad-hoc
+- Technologies: Power BI, Tableau, SQL Server, Excel, Python
+
+Analyste Données Junior | RetailData | 2019 - 2020
+- Extraction et nettoyage de données
+- Création de rapports Excel automatisés
+- Analyse des ventes et performance produits
+- Technologies: Excel, SQL, VBA
+
+Stagiaire Analyste | FinanceGroup | 2018 - 2019
+- Support à l'équipe analytics
+- Création de rapports simples
+
+COMPÉTENCES
+- BI Tools: Power BI (avancé), Tableau (avancé), QlikView
+- Bases de données: SQL Server, MySQL, PostgreSQL
+- Langages: SQL (avancé), Python (intermédiaire), DAX, M (Power Query)
+- Outils: Excel (avancé), VBA, SSIS, SSAS
+- Visualisation: Création de dashboards interactifs
+
+FORMATION
+Master en Statistiques et Analyse de Données | Université de Bordeaux | 2019
+- Spécialisation: Business Intelligence et Data Mining
+
+Licence en Mathématiques | Université de Bordeaux | 2017
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate (2022)
+- Tableau Desktop Specialist (2021)
+
+RÉALISATIONS
+- Création de 20+ dashboards pour différents départements
+- Automatisation de rapports (gain de temps: 15h/semaine)
+- Identification d'opportunités business (augmentation CA de 8%)
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Espagnol: Notions
+
+SOFT SKILLS
+- Analyse critique et synthèse
+- Communication de données complexes
+- Orientation résultats
+- Collaboration inter-départements
+

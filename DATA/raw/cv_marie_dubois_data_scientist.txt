@@ -1,0 +1,60 @@
+MARIE DUBOIS
+Data Scientist
+
+Email: marie.dubois@email.com
+Téléphone: +33 6 12 34 56 78
+LinkedIn: linkedin.com/in/marie-dubois-ds
+Localisation: Paris, France
+
+PROFIL PROFESSIONNEL
+Data Scientist avec 5 ans d'expérience dans l'analyse de données et le machine learning. 
+Expertise en Python, SQL, et frameworks ML. Passionnée par l'IA et les solutions data-driven.
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Data Scientist Senior | TechCorp | 2021 - Présent
+- Développement de modèles de prédiction pour l'optimisation des ventes (amélioration de 15%)
+- Mise en place de pipelines de données avec Apache Spark et Airflow
+- Collaboration avec les équipes produit pour intégrer des recommandations ML
+- Technologies: Python, Scikit-learn, TensorFlow, PySpark, SQL
+
+Data Scientist | DataStart | 2019 - 2021
+- Analyse de données clients pour améliorer la rétention (réduction du churn de 20%)
+- Création de dashboards interactifs avec Tableau et Power BI
+- Modélisation prédictive pour la détection de fraude
+- Technologies: Python, Pandas, Scikit-learn, SQL, Tableau
+
+Stagiaire Data Analyst | FinanceLab | 2018 - 2019
+- Analyse de données financières et création de rapports
+- Support à l'équipe analytics
+
+COMPÉTENCES TECHNIQUES
+- Langages: Python (avancé), SQL (avancé), R (intermédiaire)
+- ML/DL: Scikit-learn, TensorFlow, Keras, XGBoost
+- Big Data: Spark, Hadoop, Airflow
+- Visualisation: Tableau, Power BI, Matplotlib, Seaborn
+- Outils: Git, Docker, Kubernetes, Jupyter, VS Code
+
+FORMATION
+Master en Data Science | Université Paris-Saclay | 2018
+- Spécialisation: Machine Learning et Big Data
+- Mémoire: "Prédiction de séries temporelles avec réseaux de neurones"
+
+Licence en Mathématiques Appliquées | Université Paris-Diderot | 2016
+
+PROJETS PERSONNELS
+- Système de recommandation de films avec collaborative filtering
+- Analyse de sentiment sur Twitter avec NLP
+- Kaggle competitions: Top 10% dans plusieurs compétitions
+
+LANGUES
+- Français: Natif
+- Anglais: Courant (TOEIC 950)
+- Espagnol: Intermédiaire
+
+SOFT SKILLS
+- Esprit d'équipe et collaboration
+- Résolution de problèmes complexes
+- Communication claire des résultats techniques
+- Curiosité et apprentissage continu
+

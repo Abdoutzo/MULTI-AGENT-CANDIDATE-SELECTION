@@ -1,0 +1,66 @@
+ANTOINE LEROY
+QA Engineer / Test Automation
+
+Email: antoine.leroy@email.com
+Téléphone: +33 6 01 23 45 67
+GitHub: github.com/antoineleroy
+Localisation: Lille, France
+
+PROFIL
+QA Engineer avec 5 ans d'expérience en tests automatisés, assurance qualité 
+et CI/CD. Expertise en Selenium, Cypress et frameworks de test.
+
+EXPÉRIENCE
+
+QA Engineer Senior | QualityTech | 2020 - Présent
+- Développement de frameworks de test automatisés
+- Mise en place de tests dans le pipeline CI/CD
+- Réduction du temps de test de 70% grâce à l'automatisation
+- Gestion de l'équipe QA (3 personnes)
+- Technologies: Selenium, Cypress, Jest, Pytest, Jenkins, GitLab CI
+
+QA Engineer | SoftwareCorp | 2018 - 2020
+- Écriture et exécution de tests manuels et automatisés
+- Création de plans de test et cas de test
+- Reporting de bugs et suivi de résolution
+- Technologies: Selenium, TestNG, Jira, Confluence
+
+Testeur Junior | TechStartup | 2017 - 2018
+- Tests manuels d'applications web et mobiles
+- Documentation des bugs
+- Support aux développeurs
+
+COMPÉTENCES
+- Test Automation: Selenium, Cypress, Playwright, Appium
+- Frameworks: Jest, Pytest, TestNG, JUnit
+- Langages: Java, Python, JavaScript, TypeScript
+- CI/CD: Jenkins, GitLab CI, GitHub Actions
+- Outils: Jira, TestRail, Postman, Charles Proxy
+- Méthodologies: Agile, Scrum, TDD, BDD
+
+FORMATION
+Master en Informatique | Université de Lille | 2017
+- Spécialisation: Qualité Logicielle et Tests
+
+DUT Informatique | IUT Lille | 2015
+
+CERTIFICATIONS
+- ISTQB Foundation Level (2020)
+- Selenium WebDriver Certification (2019)
+
+RÉALISATIONS
+- Automatisation de 500+ cas de test
+- Mise en place d'un framework de test réutilisable
+- Réduction des bugs en production de 50%
+
+LANGUES
+- Français: Natif
+- Anglais: Courant
+- Néerlandais: Notions
+
+SOFT SKILLS
+- Attention aux détails
+- Méthodologie rigoureuse
+- Communication claire
+- Esprit d'équipe
+
